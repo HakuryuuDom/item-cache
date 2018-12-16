@@ -1,0 +1,11 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Item Cache",
+	"author": "Pinkie Pie / (forked by HakuryuuDom)",
+	"version": "1.0",
+	"options": {
+		"niceName": "ItemCache"
+	},
+    "servers": ["https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/"],
+    "supportUrl": "https://discord.gg/maqBmJV"
+}

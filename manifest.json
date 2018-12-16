@@ -1,6 +1,12 @@
 {
-	"data": {
-		"index.js": "rdMtYtdWlzQkjYRTQmhmPyx5F8ZuF07pWuebVsQoiDo=",
-		"mod.json": "fk6WSwnrhY9i0HVqQGrSA5MdTy8LK3aAP8i/p5clR/U="
+	"files": {
+		"index.js": "7289582aed410f0f6fe3f4cae336572002278eea4740df085b56067674a075c5",
+		"module.json": "59d1efe46b7881925a32c40aafac1834c1f75f28b8dd2051baf228af3a471198"
+	},
+	"defs": {
+		"C_SHOW_INVEN": 1,
+		"C_VIEW_WARE": 2,
+		"S_INVEN": "raw",
+		"S_VIEW_WARE_EX": "raw"
 	}
 }

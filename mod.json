@@ -1,7 +1,0 @@
-{
-	"name": "item-cache",
-	"update": "github:tera-mods/item-cache",
-	"title": "Item Cache",
-	"author": "Pinkie Pie",
-	"description": "Reduces bandwidth usage and speeds up opening inventory and bank tabs."
-}
