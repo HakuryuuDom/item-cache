@@ -3,6 +3,7 @@
 	"name": "Item Cache",
 	"author": "Pinkie Pie / (forked by HakuryuuDom)",
 	"version": "1.0",
+	"description": "Reduces bandwidth usage and speeds up opening inventory and bank tabs.",
 	"options": {
 		"niceName": "ItemCache"
 	},
